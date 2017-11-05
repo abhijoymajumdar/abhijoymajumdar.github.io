@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Abhijoy Majumdar]]></title>
+  <link href="http://abhijoymajumdar.github.io/atom.xml" rel="self"/>
+  <link href="http://abhijoymajumdar.github.io/"/>
+  <updated>2017-11-05T20:33:20+05:30</updated>
+  <id>http://abhijoymajumdar.github.io/</id>
+  <author>
+    <name><![CDATA[Abhijoy Majumdar]]></name>
+    <email><![CDATA[abhijoy.majumdar@gmail.com]]></email>
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+</feed>

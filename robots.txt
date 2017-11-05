@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: 
+
+Sitemap: http://abhijoymajumdar.github.io/sitemap.xml 
