@@ -1,13 +1,13 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
+subtitle: I am a Technology Professional from India, with over 1.5 decades of industry experience
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+My name is Abhijoy Majumdar. Here's what I do for a living:
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+- I am a full time Database Administrator, with experiences ranging from Oracle, MariaDB, MySQL and PostgreSQL databases
+- I am profecient with automation and shell scripting
 
 What else do you need?
 
