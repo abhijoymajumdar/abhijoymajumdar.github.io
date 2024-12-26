@@ -9,10 +9,10 @@
 # --- Required options --- #
 ############################
 
-# Name of website
+#Name of website
 title: Abhijoy Majumdar
 
-# Your name to show in the footer
+#Your name to show in the footer
 author: Abhijoy Majumdar
 
 ###############################################
@@ -20,7 +20,7 @@ author: Abhijoy Majumdar
 ###############################################
 
 navbar-links:
-  About Me: "aboutme"
+  About Me: "index"
   Resources:
     - Beautiful Jekyll: "https://beautifuljekyll.com"
     - Learn markdown: "https://www.markdowntutorial.com/"
@@ -101,7 +101,7 @@ share-links-active:
 
 # How to display the link to your website in the footer
 # Remove this if you don't want a link in the footer
-#url-pretty: "MyWebsite.com"
+url-pretty: "abhimajumdar.xyz"
 
 # Add the website title to the title of every page
 title-on-all-pages: true
@@ -263,7 +263,7 @@ timezone: "America/Toronto"
 markdown: kramdown
 highlighter: rouge
 permalink: /:year-:month-:day-:title/
-paginate: 5
+#paginate: 5
 
 kramdown:
   input: GFM
@@ -280,7 +280,7 @@ defaults:
       social-share: true # add social media sharing buttons to all blog posts
   -
     scope:
-      path: "" # any file that's not a post will be a "page" layout by default
+      path: "aboutme" # any file that's not a post will be a "page" layout by default
     values:
       layout: "page"
 
@@ -296,7 +296,7 @@ exclude:
   - docs/
 
 plugins:
-  - jekyll-paginate
+#  - jekyll-paginate
   - jekyll-sitemap
 
 # Beautiful Jekyll / Dean Attali
