@@ -20,7 +20,7 @@ author: Abhijoy Majumdar
 ###############################################
 
 navbar-links:
-  About Me: "https://www.abhimajumdar.xyz"
+  About Me: "http://abhimajumdar.xyz"
   Resources:
     - Beautiful Jekyll: "https://beautifuljekyll.com"
     - Learn markdown: "https://www.markdowntutorial.com/"
