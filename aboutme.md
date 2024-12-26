@@ -4,7 +4,7 @@ title: About me
 subtitle: I am a Technology Professional from India, with over 1.5 decades of industry experience
 ---
 
-My name is Abhijoy Majumdar. Here's what I do for a living:
+I am Abhijoy Majumdar. Here's what I do for a living:
 
 - I am a full time Database Administrator, with experiences ranging from Oracle, MariaDB, MySQL and PostgreSQL databases
 - I am profecient with automation and shell scripting
