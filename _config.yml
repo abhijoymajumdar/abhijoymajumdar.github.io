@@ -20,7 +20,7 @@ author: Abhijoy Majumdar
 ###############################################
 
 navbar-links:
-  About Me: "https://abhimajumdar.xyz"
+  #About Me: "https://abhimajumdar.xyz"
   Anecdotes: "anecdotes"
   Tech-Blog: "tech-blog"
   #Blog: "blog"
