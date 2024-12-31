@@ -8,6 +8,7 @@ tags: [test]
 comments: false
 mathjax: true
 author: Bill Smith
+category: tech-blog
 ---
 
 {: .box-success}

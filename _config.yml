@@ -21,7 +21,9 @@ author: Abhijoy Majumdar
 
 navbar-links:
   About Me: "https://abhimajumdar.xyz"
-  Blog: "blog"
+  Anecdotes: "anecdotes"
+  Tech-Blog: "tech-blog"
+  #Blog: "blog"
   #Resources:
   #  - Blog: "blog"
   #  - Beautiful Jekyll: "https://beautifuljekyll.com"
