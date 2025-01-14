@@ -22,9 +22,11 @@ The next alternative to hard drives is to own your own NAS. One can choose to bu
 
 ## Use Case:
 
-Assuming one is on Google’s ecosystem and about to exhaust the 15 GB free quota. 
+Assuming one is on Google’s ecosystem and about to exhaust the 15 GB free quota.
 
-Condition: One must have the data on cloud (partially / completely) depending on the requirement which could range from ensuring redundancy to accessibility of data over the internet. Given these circumstances, the option offered by Google is to rent an additional “Google One” space. At the time of writing this article, Google offered 100 GB of storage for INR 1300 annually (approx. USD 15). This may be comfortably affordable for some, however, for many, this recurring fee may be unaffordable or unjustified, based on their data volume / usage requirement. Ironically, the story isn’t much different for the Apple ecosystem as well.
+**Condition:** One must have the data on cloud (partially / completely) depending on the requirement which could range from ensuring redundancy to accessibility of data over the internet.
+
+Given these circumstances, the option offered by Google is to rent an additional “Google One” space. At the time of writing this article, Google offered 100 GB of storage for INR 1300 annually (approx. USD 15). This may be comfortably affordable for some, however, for many, this recurring fee may be unaffordable or unjustified, based on their data volume / usage requirement. Ironically, the story isn’t much different for the Apple ecosystem as well.
 
 ## Rant:
 
@@ -56,6 +58,8 @@ For accurate calculation estimates, kindly use [AWS Pricing Calculator](https://
 
 My intention here is not to promote AWS over Google or any other cloud service. The goal is to optimize cloud cost savings by only paying for used resources, avoiding paying for potentially unused rented resources. Renting resources in the cloud is unlike renting real estate or other physical assets; the core concepts are distinct. The small cost difference elaborated above compounds over time, and that can effectively translate to substantial cost savings for the informed customer. Nobody’s digital footprint grows to 100 GB overnight.
 
-In the first section of this article, I unequivocally stated Google and Apple ecosystems are uncontended (for the time being). Then am I asking anyone to move away from these ecosystems? Definitely not. But what’s the point then? **The point is to survive within the free quota limits and opt for enterprise-grade Op-Ex cloud service providers for all your further cloud storage requirements.** Offerings such as [Azure Blob Storage](https://azure.microsoft.com/en-us/products/storage/blobs/?msockid=2fabc323956261b42d0fd28d94906091) and [Google Cloud Object Storage](https://cloud.google.com/storage) are comparable to AWS S3 and are better priced than Google One and Apple. So while your digital footprint on cloud grows, don’t let it rain on your parade...
+In the first section of this article, I unequivocally stated Google and Apple ecosystems are uncontended (for the time being). Then am I asking anyone to move away from these ecosystems? Definitely not. But what’s the point then?
+
+**The point is to survive within the free quota limits and opt for enterprise-grade Op-Ex cloud service providers for all your additional cloud storage requirements.** Offerings such as [Azure Blob Storage](https://azure.microsoft.com/en-us/products/storage/blobs/?msockid=2fabc323956261b42d0fd28d94906091) and [Google Cloud Object Storage](https://cloud.google.com/storage) are comparable to AWS S3 and are better priced than Google One and Apple. So while your digital footprint on cloud grows, don’t let it rain on your parade...
 
 *Cover image courtesy [@therandomexplorer](https://www.instagram.com/therandomexplorer?igsh=enBmajh3N2t4dDV6)*
