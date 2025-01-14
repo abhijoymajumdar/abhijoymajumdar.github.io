@@ -5,16 +5,16 @@ subtitle: Optimize cloud storage costs for private use
 tags: [AWS, Cloud, S3, Google Drive]
 thumbnail-img: /assets/img/rainthumb.png
 cover-img: /assets/img/RainRoad.jpeg
-comments: false
+comments: true
 mathjax: true
 category: tech-blog
 ---
 
-Google accounts are ubiquitous these days. It would be a daunting task to find someone who’s not using Google’s services. The seamless integration of Photos, Drive, Gmail and Calendar is tempting. Those: Those outside of the Google ecosystem are almost certainly using Apple products. The two most popular smartphone platforms, Android and Apple IOS, lead to this domination. There truly isn’t a third option that even comes close. I belong to the community of Google users and have had **15 GB** free quota since forever. The problem arises when you run out of space on Google One’s free quota.
+Google accounts are ubiquitous these days. It would be a daunting task to find someone who’s not using Google’s services. The seamless integration of Photos, Drive, Gmail and Calendar is tempting. Those outside of the Google ecosystem are almost certainly using Apple products. The two most popular smartphone platforms, Android and Apple IOS, lead to this domination. There truly isn’t a third option that even comes close. I belong to the community of Google users and have had **15 GB** free quota since forever. The problem arises when you run out of space on Google One’s free quota.
 
 {: .box-note}
 **Premise:** 
-The first and most economical form of digital storage is a hard drive (external preferably, which is also makes it portable). Hard drives, however, don’t offer any redundancy, so you may lose your data if one fails. To work around this, manually make two or more data copies on similar independent hard drives (while most economical, this is time-consuming and requires recurring manual effort).
+The first and most economical form of digital storage is a hard drive (USB external preferably, which also makes it portable). Hard drives, however, don’t offer any redundancy, so you may lose your data if one fails. To work around this, manually make two or more data copies on similar independent hard drives (while most economical, this is time-consuming and requires recurring manual effort).
 
 {: .box-note}
 **Alternative:** 
@@ -26,7 +26,7 @@ Now, assuming you’re on Google’s ecosystem and you’re about to exhaust you
 
 ## Rant:
 
-Switch to Enterprise Cloud Object Storage offerings such as [AWS S3](https://aws.amazon.com/s3/) which enables you to rent only what you use, all while tapering costs further by choosing storage class offerings based on frequency of use (this is practical since we don’t use everything on cloud every day), automated data transition lifecycle policies can help transition files from faster to slower storage class, based on file ageing - thus lowering costs further. All while offering enterprise grade security, availability and configurable redundancy.
+Switch to Enterprise Cloud Object Storage offerings such as [AWS S3](https://aws.amazon.com/s3/) which enables you to rent only what you use, all while tapering costs further by choosing storage class offerings based on frequency of use (this is practical since we don’t use everything on cloud every day), automated data transition lifecycle policies can help transition files from faster to slower storage class, based on file ageing - thus lowering costs further. All while offering enterprise grade security, availability and redundancy.
 
 If configured optimally enough, one can stand to lower annual cloud usage costs much less than what is being charged by Google One, Apple and the likes.
 
@@ -54,6 +54,6 @@ For accurate calculation estimates, kindly use [AWS Pricing Calculator](https://
 
 My intention here is not to promote AWS over Google or any other cloud service. The goal is to optimize cloud cost savings by only paying for used resources, avoiding paying for potentially unused rented resources. Renting resources in the cloud is unlike renting real estate or other physical assets; the core concepts are distinct. The small cost difference elaborated above compounds over time, and that can effectively translate to substantial cost savings for the informed customer. Nobody’s digital footprint grows to 100 GB overnight.
 
-In the first section of this article, I unequivocally stated Google and Apple ecosystems are uncontended (for the time being). Then am I asking you to move away from these ecosystems? Obviously not. Then you may ask, what’s the point? The point is to survive within the free quota limits and opt for enterprise-grade Op-Ex cloud service providers for all your other cloud requirements. Offerings such as [Azure Blob Storage](https://azure.microsoft.com/en-us/products/storage/blobs/?msockid=2fabc323956261b42d0fd28d94906091) and [Google Cloud Object Storage](https://cloud.google.com/storage) are comparable to AWS S3 and are better priced than Google One and Apple.
+In the first section of this article, I unequivocally stated Google and Apple ecosystems are uncontended (for the time being). Then am I asking you to move away from these ecosystems? Obviously not. Then you may ask, what’s the point? The point is to survive within the free quota limits and opt for enterprise-grade Op-Ex cloud service providers for all your other cloud requirements. Offerings such as [Azure Blob Storage](https://azure.microsoft.com/en-us/products/storage/blobs/?msockid=2fabc323956261b42d0fd28d94906091) and [Google Cloud Object Storage](https://cloud.google.com/storage) are comparable to AWS S3 and are better priced than Google One and Apple. So while your digital footprint on cloud increases, don't let it rain on your parade..
 
 *Cover image courtesy [@therandomexplorer](https://www.instagram.com/therandomexplorer?igsh=enBmajh3N2t4dDV6)*
