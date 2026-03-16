@@ -10,7 +10,7 @@ A millennial, born and brought up in suburban Delhi, India, I did my initial sch
 
 ### Work
 
-[DXC (Earstwhile CSC India)](https://dxc.com/in/en) blessed me with the first ever opportunity to explore my skills as a technical professional. This further opened the doors towards tech giants such as [Tech Mahindra](https://www.techmahindra.com/) and my current organization [HCL Tech](https://www.hcltech.com/). I completed my **Master in Computer Application** while still employed with CSC.
+[DXC (Erstwhile CSC India)](https://dxc.com/in/en) blessed me with the first ever opportunity to explore my skills as a technical professional. This further opened the doors towards tech giants such as [Tech Mahindra](https://www.techmahindra.com/) and my current organization [HCL Tech](https://www.hcltech.com/). I completed my **Master in Computer Application** while still employed with CSC.
 
 ### Technology Engagements
 
